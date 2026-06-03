@@ -37,8 +37,8 @@ All files live in: `~/Desktop/flask-lab/`
 ## 📋 Prerequisites
 
 - macOS with Terminal
-- Python 3 installed (Homebrew recommended)
-- Visual Studio Code (optional but recommended)
+- Python 3 installed 
+- Visual Studio Code 
 
 ---
 
