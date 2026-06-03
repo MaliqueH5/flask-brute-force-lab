@@ -90,8 +90,6 @@ pip install flask requests
 
 ---
 
-🛑 **From now on, switch to Visual Studio Code to create all the files.**
-
 ---
 
 ### Step 5 — Open Visual Studio Code
