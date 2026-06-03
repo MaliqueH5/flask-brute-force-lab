@@ -272,50 +272,19 @@ Found! Username: admin | Password: hunter2
 
 ## 📸 Screenshots
 
-> **Add your own screenshots below to make your README more visual and portfolio-ready.**
+
 
 ### Login Page (Before Attack)
 <img width="1536" height="971" alt="Screenshot:login-page" src="https://github.com/user-attachments/assets/49eddce9-4403-4116-85fa-96760eb5c18d" />
 
 ### Brute-Force Attack in Action
-
-![Brute-Force Output](screenshots/attack-output.png)  
-*The attack script cycling through passwords until it finds `hunter2`*
+<img width="1093" height="691" alt="Screenshot:attack-output" src="https://github.com/user-attachments/assets/7da44015-c0f7-47ef-b6aa-57b048be94b8" />
 
 ### Successful Login
 
-![Successful Login](screenshots/welcome-message.png)  
-*The `Welcome!` message when the correct credentials are found*
+<img width="1536" height="971" alt="Screenshot:welcome-message" src="https://github.com/user-attachments/assets/551a1b6b-da73-4f0e-8edc-a91d057590ef" />
 
----
 
-### 📷 How to Add Screenshots
-
-1. Create a `screenshots/` folder:
-
-   ```bash
-   mkdir ~/Desktop/flask-lab/screenshots
-   ```
-
-2. Take screenshots while running the lab:
-   - Login page in your browser
-   - Terminal output from the attack script
-   - The `Welcome!` message
-
-3. Save them as:
-   - `screenshots/login-page.png`
-   - `screenshots/attack-output.png`
-   - `screenshots/welcome-message.png`
-
-4. Commit the screenshots to GitHub:
-
-   ```bash
-   git add screenshots/
-   git commit -m "Add lab screenshots"
-   git push
-   ```
-
----
 
 ## ⚙️ How It Works
 
