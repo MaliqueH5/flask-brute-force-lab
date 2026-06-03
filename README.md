@@ -382,9 +382,8 @@ This lab is for **educational purposes only**. It demonstrates how brute-force a
 
 **Malique Holley**  
 IT Support & Cybersecurity Enthusiast  
-[GitHub](https://github.com/your-username) |
 
-*(Update the links above with your actual GitHub and LinkedIn profiles.)*
+
 
 ---
 
