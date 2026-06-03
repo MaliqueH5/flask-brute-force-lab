@@ -275,9 +275,7 @@ Found! Username: admin | Password: hunter2
 > **Add your own screenshots below to make your README more visual and portfolio-ready.**
 
 ### Login Page (Before Attack)
-
-![Login Page](screenshots/login-page.png)  
-*The Flask login page at `http://localhost:34224/`*
+<img width="1536" height="971" alt="Screenshot:login-page" src="https://github.com/user-attachments/assets/49eddce9-4403-4116-85fa-96760eb5c18d" />
 
 ### Brute-Force Attack in Action
 
