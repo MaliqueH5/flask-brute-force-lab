@@ -88,7 +88,6 @@ In **Terminal**, run:
 pip install flask requests
 ```
 
----
 
 ---
 
