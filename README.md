@@ -340,16 +340,7 @@ This lab is for **educational purposes only**. It demonstrates how brute-force a
 - 🛡️ Why defenses like rate limiting, account lockout, and CAPTCHA are important
 - 🧪 How to build and test your own authentication systems securely
 
----
 
-## 👤 Author
-
-**Malique Holley**  
-IT Support & Cybersecurity Enthusiast  
-
-
-
----
 
 ## 📜 License
 
